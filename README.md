@@ -1,5 +1,5 @@
 # Movie List
-A simple web application for movie fanatic, click <a href="https://klu0926.github.io/ac-movie-list/" target="_blank">Page</a> here
+A simple web application for movie fanatic, click [Page](https://klu0926.github.io/ac-movie-list/) here
 
 ## Screenshot
 ![screenshot](images/screen1.png)
